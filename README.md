@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/aofei/air.svg?branch=master)](https://travis-ci.org/aofei/air)
 [![Coverage Status](https://coveralls.io/repos/github/aofei/air/badge.svg?branch=master)](https://coveralls.io/github/aofei/air?branch=master)
 [![Go Report Card](https://goreportcard.com/badge/github.com/aofei/air)](https://goreportcard.com/report/github.com/aofei/air)
-[![GoDoc](https://godoc.org/github.com/aofei/air?status.svg)](https://godoc.org/github.com/aofei/air)
+[![GoDoc](https://godoc.org/github.com/aofei/air?status.svg)](https://godoc.org/github.com/aofei/air) [![GuardRails badge](https://badges.production.guardrails.io/r0flc0pt4/air.svg)](https://www.guardrails.io)
 
 An ideally refined web framework for Go. You can use it to build a web
 application as natural as breathing.
